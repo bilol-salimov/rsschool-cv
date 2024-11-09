@@ -4,7 +4,7 @@
 
 - <b>Email:</b> salimovbilol321@gmail.com
 - <b>Phone:</b> +998 99 575 3123
-- <b>Telegram:</b> [@bilol_salimov]{https://t.me/bilol_salimov}
+- <b>Telegram:</b> [@bilol_salimov](https://t.me/bilol_salimov)
 
 ## Summary
 
@@ -21,7 +21,7 @@ At the same time, I am improving my language skills.
 ## Experience
 
 I have completed several small and medium projects during my studies
-Here is my portfolio: [Netlify link]{https://bilolsalimov.netlify.app/}
+Here is my portfolio: [Netlify link](https://bilolsalimov.netlify.app/)
 
 ## Education
 
