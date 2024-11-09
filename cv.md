@@ -22,3 +22,12 @@ At the same time, I am improving my language skills.
 
 I have completed several small and medium projects during my studies
 Here is my portfolio: [Netlify link]{https://bilolsalimov.netlify.app/}
+
+## Education
+
+Offline courses: Prime Study Educational center
+Online courses: Full Digital Fronted 2.0 by Azizbek Khabibullayev, Frontend Development at RS School
+
+## English
+
+I have been learning English for 1 year. My learning is mainly from self-study and online courses.
